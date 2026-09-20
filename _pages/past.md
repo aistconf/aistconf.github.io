@@ -22,7 +22,7 @@ sidebar:
                     <a href="https://link.springer.com/book/10.1007/978-3-031-88036-0"><img src="https://media.springernature.com/w316/springer-static/cover-hires/book/978-3-031-88036-0?as=webp"></a>
                 </figure>
             </td>
-            <td style="width: 60%;"><center>12th International Conference,<br><b>AIST 2024</b>,<br>Bishkek, Kyrgyzstan<br>October 17–19, 2024</center></td>
+            <td style="width: 60%;"><center>12th International Conference,<br><a href="https://aistconf.github.io/2024/"><b>AIST 2024</b></a>,<br>Bishkek, Kyrgyzstan<br>October 17–19, 2024</center></td>
             <td><center><a href="https://link.springer.com/book/10.1007/978-3-031-88036-0">LNCS</a></center></td>
         </tr>
         <tr>
@@ -31,7 +31,7 @@ sidebar:
                     <a href="https://link.springer.com/book/10.1007/978-3-031-54534-4"><img src="https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-54534-4?as=webp"></a> <a href="https://link.springer.com/book/9783031670077"><img src="/assets/images/ccis2023.png"></a>
                 </figure>
             </td>
-            <td style="width: 60%;"><center>11th International Conference,<br><b>AIST 2023</b>,<br>Yerevan, Armenia<br>September 28–30, 2023</center></td>
+            <td style="width: 60%;"><center>11th International Conference,<br><a href="https://aistconf.github.io/2023/"><b>AIST 2023</b></a>,<br>Yerevan, Armenia<br>September 28–30, 2023</center></td>
             <td><center><a href="https://link.springer.com/book/10.1007/978-3-031-54534-4">LNCS</a>, <a href="https://link.springer.com/book/9783031670077">CCIS</a></center></td>
         </tr>
         <tr>
@@ -40,7 +40,7 @@ sidebar:
                     <a href="https://link.springer.com/book/10.1007/978-3-031-16500-9"><img src="/assets/images/978-3-031-16500-9.png"></a> <a href="https://link.springer.com/book/10.1007/978-3-031-15168-2"><img src="/assets/images/978-3-031-15168-2.png"></a>
                 </figure>
             </td>
-            <td style="width: 60%;"><center>10th International Conference,<br><b>AIST 2021</b>,<br>Tbilisi, Georgia<br>December 16–18, 2021</center></td>
+            <td style="width: 60%;"><center>10th International Conference,<br><a href="https://aistconf.github.io/2021/"><b>AIST 2021</b></a>,<br>Tbilisi, Georgia<br>December 16–18, 2021</center></td>
             <td><center><a href="https://link.springer.com/book/10.1007/978-3-031-16500-9">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-031-15168-2">CCIS</a></center></td>
         </tr>
         <tr>
