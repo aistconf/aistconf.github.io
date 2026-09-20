@@ -102,13 +102,13 @@ past:
   - title: "Past events"
     children:
       - title: "AIST 2024"
-        url: http://2024.aistconf.org/
+        url: https://aistconf.github.io/2024/
       - title: "AIST 2023"
-        url: http://2023.aistconf.org/
+        url: https://aistconf.github.io/2023/
       - title: "AIST 2021"
-        url: http://2021.aistconf.org/
+        url: https://aistconf.github.io/2021/
       - title: "AIST 2020"
-        url: http://2020.aistconf.org/
+        url: https://aistconf.github.io/2020/
       - title: "AIST 2019"
         url: http://2019.aistconf.org/
       - title: "AIST 2018"

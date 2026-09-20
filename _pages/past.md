@@ -49,7 +49,7 @@ sidebar:
                     <a href="https://link.springer.com/book/10.1007/978-3-030-72610-2"><img src="/assets/images/978-3-030-72610-2.jpg"></a> <a href="https://link.springer.com/book/10.1007/978-3-030-71214-3"><img src="/assets/images/978-3-030-71214-3.jpg"></a>
                 </figure>
             </td>
-            <td style="width: 60%;"><center>9th International Conference,<br><b>AIST 2020</b>,<br>Skoltech, Russia<br>October 15–16, 2020</center></td>
+            <td style="width: 60%;"><center>9th International Conference,<br><a href="https://aistconf.github.io/2020/"><b>AIST 2020</b></a>,<br>Skoltech, Russia<br>October 15–16, 2020</center></td>
             <td><center><a href="https://link.springer.com/book/10.1007/978-3-030-72610-2">LNCS</a>, <a href="https://link.springer.com/book/10.1007/978-3-030-71214-3">CCIS</a></center></td>
         </tr>
         <tr>
